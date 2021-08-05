@@ -1,0 +1,211 @@
+#nfont{
+  font-family: Inter, sans-serif;
+  font-color: black;
+  font-weight: 550;
+}
+.head{
+  /* text-align: left; */
+  font-family: Inter, sans-serif;
+  font-size: 65px;
+  font-weight: bold;
+}
+.subhead{
+  font-family: Inter, sans-serif;
+  font-size: 30px;
+  color: #71787a;
+}
+.eb{
+  margin:10px;
+  height:48px;
+  width: 120px;
+
+}
+.hoverus{
+  background: #45d960;
+  padding:11px;
+  border:0;
+  color: white;
+  border-radius: 5px;
+}
+.hoverus:hover{
+  background: #25b33f;
+}
+.add_scribber{
+  background-image: url("https://assets.website-files.com/60587b5d9eb79a8cf5ba521a/6059da8996c524ca57f07d47_scribbble.png");
+  background-position: 50% 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.enqimg{
+  background-image: url("enquiry.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.box-container{
+  padding:50px;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background: #fff5ed;
+}
+.boxsubhead{
+  font-family: Inter, sans-serif;
+  font-size: 17px;
+  color: #71787a;
+
+}
+.box1{
+  padding:20px;
+  background: white;
+  border: 10px solid white;
+  border-radius: 10px;
+  margin: 15px;
+  }
+
+.jbox{
+  margin: 50px 170px 10px 170px;
+  background: #4922bd;
+  border-radius: 10px;
+  padding: 50px;
+  color: white;
+  font-family: Inter, sans-serif;
+}
+.joinhead{
+  font-weight:bold;
+  text-align: center;
+}
+.joinp{
+  text-align: center;
+  font-family: Inter, sans-serif;
+  color: #918f96;
+  font-weight: bold;
+}
+
+img[src="star.png"]{
+  height: 20px;
+  width: 20px;
+}
+.starbox{
+  padding: 20px;
+  background: #f2e9dc;
+  border: 10px solid #f2e9dc;
+  border-radius: 10px;
+  margin: 15px;
+}
+.starword{
+  font-family: Inter, sans-serif;
+  color: #918f96;
+  font-size: 17px;
+  margin: 40px;
+}
+/* Fun facts Box */
+.orbox{
+  background: #ff7700;
+  padding: 18px;
+  border: 10px solid #ff7700;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+
+.hoverb{
+  padding:11px;
+  background:#7b03fc;
+  border:0;
+  color: white;
+  border-radius: 5px;
+}
+.hoverb:hover{
+  background-color:#4e03fc;
+}
+/* Subscribe to newsletter */
+.newsletter{
+  background-image: url("https://assets.website-files.com/60587b5d9eb79a8cf5ba521a/605b4a0056bd12244b865219_photo-1.jpg");
+  background-position: 50% 0%;
+  background-size:cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  height: 600px;
+}
+.subscribe{
+  font-family: Inter, sans-serif;
+  font-size: 20px;
+  color: #71787a;
+}
+input[type="email"],input[type="password"]{
+  font-family: Inter, sans-serif;
+  font-size: 17px;
+  color: #333333;
+  padding: 30px;
+}
+#tc{
+  font-family: Inter, sans-serif;
+  font-size: 17px;
+  color: #71787a;
+}
+
+/* team */
+.moyo-founder{
+  height: 140px;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.flabel{
+  padding: 15px;
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  color: black;
+}
+.social-icon{
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  margin:5px;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 4px;
+  padding: 5px;
+}
+.social-icon:hover{
+  opacity: 0.6;
+}
+
+
+/* Last Box */
+.last-box{
+  color: hsla(0, 0%, 100%, 0.9);
+  text-align: center;
+  padding: 30px;
+}
+.social-icon2{
+  background-color:#7b03fc;
+  height: 40px;
+  width: 40px;
+  margin:5px;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.social-icon2:hover{
+  background-color:#4e03fc;
+}
+
+.lastword{
+  font-family: Inter, sans-serif;
+  font-size: 17px;
+  text-align: center;
+  color: hsla(0, 0%, 100%, 0.7);
+}
+.lastlink{
+  color: hsla(0, 0%, 100%, 0.7);
+  text-decoration: none;
+}
+.lastlink:hover{
+  color: hsla(0, 0%, 100%, 0.9);
+  text-decoration: none;
+}
